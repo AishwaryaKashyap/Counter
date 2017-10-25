@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: ONAP SDNC Controller
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: AS00476394
+Implementation-Vendor-Id: com.microservices
+Build-Jdk: 1.8.0_144
+Implementation-URL: http://projects.spring.io/spring-boot/Onap_SDNC_v1
+ /
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+

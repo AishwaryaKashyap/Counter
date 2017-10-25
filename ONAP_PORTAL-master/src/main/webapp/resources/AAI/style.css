@@ -1,0 +1,105 @@
+.node {
+    cursor: pointer;
+  }
+
+  .overlay{
+      background-color:#EEE;
+  }
+   
+  .node circle {
+    fill: #fff;
+    stroke: steelblue;
+    stroke-width: 1.5px;
+  }
+   
+  .node text {
+    font-size:10px; 
+    font-family:sans-serif;
+  }
+   
+  .link {
+    fill: none;
+    stroke: #000;
+    stroke-width: 0.8px;
+  }
+
+  .templink {
+    fill: none;
+    stroke: red;
+    stroke-width: 3px;
+  }
+
+  .ghostCircle.show{
+      display:block;
+  }
+
+  .ghostCircle, .activeDrag .ghostCircle{
+       display: none;
+  }
+  
+div.container {
+    width: 50%;
+    height:50%
+    border: 1px solid gray;
+}
+#newCust #Customers{
+    border: 1px solid #ddd;
+    width: 100%;
+    max-width: 100%;
+    margin-bottom: 20px;
+}
+
+
+#newCust #Generic_vnfs{
+  border: 1px solid #ddd;
+    width: 100%;
+    max-width: 100%;
+    margin-bottom: 20px;	
+	
+	
+}
+/* header{
+    padding: 1em;
+	 background-color:#D0ECE7;
+  
+}
+
+nav {
+    float: left;
+    width:70%;
+    height:900px;
+   
+    padding: 1em;
+    background-color:#EAEDED;
+      overflow: hidden;
+}
+
+
+	article {
+    margin-left: 255px;
+    height:800px;
+  background-color:powderblue;
+    padding: 1em;
+    overflow: hidden;
+}
+
+
+ table{
+   width: 27%;
+    height:10%;
+	 float:right;
+	 border-collapse: collapse;
+ }
+ th{
+    border: 1px solid black;
+	 text-align: center;
+	
+  }
+  td{
+   border: 1px solid black;
+
+  }
+  tr
+  {
+   border: 1px solid black;
+  }*/
